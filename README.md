@@ -1,6 +1,7 @@
-# Welcome to My Special Repository!
+# 👋Welcome to My Repository!
 
-[![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=%24.views&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fhits%2Fanhtunguyen1415)](https://github.com/anhtunguyen1415)
+[![Profile Views](https://komarev.com/ghpvc/?username=anhtunguyen1415)](https://github.com/anhtunguyen1415)
+
 - 👋 Hi, I’m Nguyen Anh Tu
 - 👀 I’m currently learning Java Web
 - 🌱 I am currently studying at HaUI
