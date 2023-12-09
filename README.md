@@ -6,4 +6,3 @@
 - 🌱 I am currently studying at HaUI
 - 📫 My Contact: 0397981415 & anhtunguyen1415@gmail.com
 - Happy coding! 😊
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg" alt="Nguyen Anh Tu">
