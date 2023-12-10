@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Nguyen Anh Tu
 - 👀 I’m currently learning Java Web
 - 🌱 I am currently studying at HaUI
-- 📫 My Contact: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/NguyenAnhTu002)
+- 📫 My Contact: [Nguyễn Anh Tú](https://www.facebook.com/NguyenAnhTu002)
 - Happy coding! 😊
 ![Demo](/images/demo.gif)
 
