@@ -10,4 +10,4 @@
 - 🌱 I am currently studying at HaUI
 - 📫 My Contact: [Nguyễn Anh Tú](https://www.facebook.com/NguyenAnhTu002)
 - Happy coding! 😊
-![Demo](/images/demo.gif)
+
