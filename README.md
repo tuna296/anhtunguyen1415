@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<img src="./github-contribution-grid-snake.svg">
+
 # 👋Welcome to My Repository!
 [![Profile Views](https://komarev.com/ghpvc/?username=anhtunguyen1415)](https://github.com/anhtunguyen1415)
 - 👋 Hi, I’m Nguyen Anh Tu
