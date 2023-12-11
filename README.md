@@ -1,7 +1,6 @@
 
-
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" style="color: #ff0000; font-family: 'Arial', sans-serif;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Nguyễn+Anh+Tú;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=35">
   </a>
 </h1>
